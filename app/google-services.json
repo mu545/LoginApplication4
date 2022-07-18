@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828006508606",
+    "project_id": "loginapp-8579b",
+    "storage_bucket": "loginapp-8579b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828006508606:android:a3bf23b4392c159095896f",
+        "android_client_info": {
+          "package_name": "com.learnandroid.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828006508606-01g02qk6oj8t6mg6fr9snbnueqe81fb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EuZf8Ksi2gJzS-0FWMEr9bommPh3anc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828006508606-01g02qk6oj8t6mg6fr9snbnueqe81fb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
