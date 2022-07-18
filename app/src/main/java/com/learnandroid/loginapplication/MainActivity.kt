@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         setContent {
             LoginApplicationTheme {
+
                 LoginApplication()
             }
         }
