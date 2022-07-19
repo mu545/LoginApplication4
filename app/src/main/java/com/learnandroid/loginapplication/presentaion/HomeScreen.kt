@@ -9,7 +9,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.navigation.NavController
 
 @Composable
-fun Home(navController: NavController){
+fun HomeScrenns(){
     Box(modifier = Modifier.background(color = Color.White)){
 
         LazyColumn{
