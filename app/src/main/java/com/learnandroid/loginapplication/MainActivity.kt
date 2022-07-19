@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity() {
 
 
         setContent {
+
             val loginViewModule = viewModel(modelClass =LoginViewModule:: class.java)
             LoginApplicationTheme {
                 Navigator(loginViewModule= loginViewModule)
